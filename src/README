@@ -1,0 +1,3 @@
+Le programme est composé de deux parties, la partie implémentation du protocole (le dossier protocole) qui contient les fonctions qui traitent les chaines de caractères,
+afin de mettre à disposition tous les outils nécessaires pour pouvoir transofrmer un message en tlv et vice-versa, l'autre partie va contenir tout ce qui utile à la communication, donc la partie réseau du projet.
+Le fichier main est contient l'entrée du programme et la boucle principale.

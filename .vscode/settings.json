@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "emeteur.h": "c",
+        "stdlib.h": "c",
+        "data_peer.h": "c",
+        "recepteur.h": "c",
+        "tlvs.h": "c",
+        "create_message.h": "c",
+        "header.h": "c"
+    }
+}

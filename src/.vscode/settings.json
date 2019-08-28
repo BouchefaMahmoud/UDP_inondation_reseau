@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "emeteur.h": "c",
+        "data_peer.h": "c",
+        "tlvs.h": "c"
+    }
+}
